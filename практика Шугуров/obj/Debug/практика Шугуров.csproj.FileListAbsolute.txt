@@ -1,0 +1,7 @@
+C:\Users\305-9\Desktop\Шугуров Алексей Пр-21\практика Шугуров\bin\Debug\практика Шугуров.exe.config
+C:\Users\305-9\Desktop\Шугуров Алексей Пр-21\практика Шугуров\bin\Debug\практика Шугуров.exe
+C:\Users\305-9\Desktop\Шугуров Алексей Пр-21\практика Шугуров\bin\Debug\практика Шугуров.pdb
+C:\Users\305-9\Desktop\Шугуров Алексей Пр-21\практика Шугуров\obj\Debug\практика Шугуров.csproj.AssemblyReference.cache
+C:\Users\305-9\Desktop\Шугуров Алексей Пр-21\практика Шугуров\obj\Debug\практика Шугуров.csproj.CoreCompileInputs.cache
+C:\Users\305-9\Desktop\Шугуров Алексей Пр-21\практика Шугуров\obj\Debug\практика Шугуров.exe
+C:\Users\305-9\Desktop\Шугуров Алексей Пр-21\практика Шугуров\obj\Debug\практика Шугуров.pdb
